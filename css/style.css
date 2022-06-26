@@ -366,7 +366,7 @@ template {
   display: flex;
   position: relative;
   overflow: hidden;
-  boarder-radius: 6px;
+  border-radius: 6px;
   height: 40px;
 }
 .search__input {
@@ -374,7 +374,7 @@ template {
   height: 100%;
   padding-left: 23px;
   background-color: #f5fafe;
-  boarder: none;
+  border: none;
   font-size: 12px;
   line-height: 15px;
   color: #333333;
@@ -385,6 +385,6 @@ template {
   right: 0;
   height: 100%;
   width: 65px;
-  boarder: none;
+  border: none;
   background-color: #fff;
 }/*# sourceMappingURL=style.css.map */
